@@ -3,6 +3,9 @@
 This directory tracks the production deployment for Supabase project
 `mtteurtqhfaawwuiwuqd`.
 
+Production sync follows `kalz-D/OB1` on `main` from the repository root.
+Automatic preview branches are disabled to avoid unintended compute charges.
+
 - The baseline migration version is `0001` (`open_brain_core`).
 - `20260915081300_optimize_thoughts_rls.sql` records the production RLS
   performance fix applied on 2026-09-15.
