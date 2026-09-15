@@ -1,0 +1,7 @@
+project_id = "open-brain"
+
+[functions.open-brain-mcp]
+verify_jwt = false
+
+[functions.update-thought-mcp]
+verify_jwt = false

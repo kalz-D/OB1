@@ -1,7 +1,7 @@
 node_modules/
 .DS_Store
 .planning/
-supabase/
+# This fork versions its live Supabase deployment under supabase/.
 
 # Maintainer-local overlays (not part of upstream contribution contract)
 .local/
